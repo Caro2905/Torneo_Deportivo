@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "6640e7d9262fd82a8edac8b9"
+  },
+  "POSICIÓN": 1,
+  "EQUIPO": "REAL MADRID ",
+  "PUNTOS": 16
+},
+{
+  "_id": {
+    "$oid": "6640e7d9262fd82a8edac8ba"
+  },
+  "POSICIÓN": 2,
+  "EQUIPO": "PSG",
+  "PUNTOS": 15
+},
+{
+  "_id": {
+    "$oid": "6640e7d9262fd82a8edac8bb"
+  },
+  "POSICIÓN": 3,
+  "EQUIPO": "ARSENAL",
+  "PUNTOS": 12
+},
+{
+  "_id": {
+    "$oid": "6640e7d9262fd82a8edac8bc"
+  },
+  "POSICIÓN": 4,
+  "EQUIPO": "CHELSEA ",
+  "PUNTOS": 12
+},
+{
+  "_id": {
+    "$oid": "6640e7d9262fd82a8edac8bd"
+  },
+  "POSICIÓN": 5,
+  "EQUIPO": "MANCHESTER UNITED",
+  "PUNTOS": 11
+},
+{
+  "_id": {
+    "$oid": "6640e7d9262fd82a8edac8be"
+  },
+  "POSICIÓN": 6,
+  "EQUIPO": "MILAN ",
+  "PUNTOS": 10
+},
+{
+  "_id": {
+    "$oid": "6640e7d9262fd82a8edac8bf"
+  },
+  "POSICIÓN": 7,
+  "EQUIPO": "BAYERN MUNICH",
+  "PUNTOS": 10
+},
+{
+  "_id": {
+    "$oid": "6640e7d9262fd82a8edac8c0"
+  },
+  "POSICIÓN": 8,
+  "EQUIPO": "LEVERKUSEN",
+  "PUNTOS": 9
+},
+{
+  "_id": {
+    "$oid": "6640e7d9262fd82a8edac8c1"
+  },
+  "POSICIÓN": 9,
+  "EQUIPO": "BARCELONA",
+  "PUNTOS": 8
+},
+{
+  "_id": {
+    "$oid": "6640e7d9262fd82a8edac8c2"
+  },
+  "POSICIÓN": 10,
+  "EQUIPO": "NAPOLI",
+  "PUNTOS": 7
+},
+{
+  "_id": {
+    "$oid": "6640e7d9262fd82a8edac8c3"
+  },
+  "POSICIÓN": 11,
+  "EQUIPO": "MANCHESTER CITY",
+  "PUNTOS": 6
+},
+{
+  "_id": {
+    "$oid": "6640e7d9262fd82a8edac8c4"
+  },
+  "POSICIÓN": 12,
+  "EQUIPO": "ATLETICO DE MADRID",
+  "PUNTOS": 6
+},
+{
+  "_id": {
+    "$oid": "6640e7d9262fd82a8edac8c5"
+  },
+  "POSICIÓN": 13,
+  "EQUIPO": "PORTO",
+  "PUNTOS": 4
+},
+{
+  "_id": {
+    "$oid": "6640e7d9262fd82a8edac8c6"
+  },
+  "POSICIÓN": 14,
+  "EQUIPO": "BORUSSIA DORMUNT",
+  "PUNTOS": 3
+},
+{
+  "_id": {
+    "$oid": "6640e7d9262fd82a8edac8c7"
+  },
+  "POSICIÓN": 15,
+  "EQUIPO": "INTER",
+  "PUNTOS": 3
+},
+{
+  "_id": {
+    "$oid": "6640e7d9262fd82a8edac8c8"
+  },
+  "POSICIÓN": 16,
+  "EQUIPO": "SEVILLA",
+  "PUNTOS": 0
+}]

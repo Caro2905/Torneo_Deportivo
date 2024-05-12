@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "663c4138262fd82a8edac7fb"
+  },
+  "ID_Equipo": 1,
+  "Pais": "Alemania",
+  "Equipo": "Bayer Munich",
+  "Grupo": "A"
+},
+{
+  "_id": {
+    "$oid": "663c4138262fd82a8edac7fc"
+  },
+  "ID_Equipo": 2,
+  "Pais": "Alemania",
+  "Equipo": "Borussia Dortmund",
+  "Grupo": "A"
+},
+{
+  "_id": {
+    "$oid": "663c4138262fd82a8edac7fd"
+  },
+  "ID_Equipo": 3,
+  "Pais": "Inglaterra",
+  "Equipo": "Arsenal",
+  "Grupo": "A"
+},
+{
+  "_id": {
+    "$oid": "663c4138262fd82a8edac7fe"
+  },
+  "ID_Equipo": 4,
+  "Pais": "España",
+  "Equipo": "Sevilla",
+  "Grupo": "A"
+},
+{
+  "_id": {
+    "$oid": "663c4138262fd82a8edac7ff"
+  },
+  "ID_Equipo": 5,
+  "Pais": "España",
+  "Equipo": "Real Madrid",
+  "Grupo": "B"
+},
+{
+  "_id": {
+    "$oid": "663c4138262fd82a8edac800"
+  },
+  "ID_Equipo": 6,
+  "Pais": "Italia",
+  "Equipo": "Napoli",
+  "Grupo": "B"
+},
+{
+  "_id": {
+    "$oid": "663c4138262fd82a8edac801"
+  },
+  "ID_Equipo": 7,
+  "Pais": "Inglaterra",
+  "Equipo": "Manchester City",
+  "Grupo": "B"
+},
+{
+  "_id": {
+    "$oid": "663c4138262fd82a8edac802"
+  },
+  "ID_Equipo": 8,
+  "Pais": "Alemania",
+  "Equipo": "Leverkusen",
+  "Grupo": "B"
+},
+{
+  "_id": {
+    "$oid": "663c4138262fd82a8edac803"
+  },
+  "ID_Equipo": 9,
+  "Pais": "Italia",
+  "Equipo": "Inter de Milan",
+  "Grupo": "C"
+},
+{
+  "_id": {
+    "$oid": "663c4138262fd82a8edac804"
+  },
+  "ID_Equipo": 10,
+  "Pais": "Inglaterra",
+  "Equipo": "Manchester United",
+  "Grupo": "C"
+},
+{
+  "_id": {
+    "$oid": "663c4138262fd82a8edac805"
+  },
+  "ID_Equipo": 11,
+  "Pais": "España",
+  "Equipo": "Barcelona",
+  "Grupo": "C"
+},
+{
+  "_id": {
+    "$oid": "663c4138262fd82a8edac806"
+  },
+  "ID_Equipo": 12,
+  "Pais": "Francia",
+  "Equipo": "PSG",
+  "Grupo": "C"
+},
+{
+  "_id": {
+    "$oid": "663c4138262fd82a8edac807"
+  },
+  "ID_Equipo": 13,
+  "Pais": "Inglaterra",
+  "Equipo": "Chelsea",
+  "Grupo": "D"
+},
+{
+  "_id": {
+    "$oid": "663c4138262fd82a8edac808"
+  },
+  "ID_Equipo": 14,
+  "Pais": "Italia",
+  "Equipo": "Milan",
+  "Grupo": "D"
+},
+{
+  "_id": {
+    "$oid": "663c4138262fd82a8edac809"
+  },
+  "ID_Equipo": 15,
+  "Pais": "España",
+  "Equipo": "Atletico de Madrid",
+  "Grupo": "D"
+},
+{
+  "_id": {
+    "$oid": "663c4138262fd82a8edac80a"
+  },
+  "ID_Equipo": 16,
+  "Pais": "Portugal",
+  "Equipo": "Porto",
+  "Grupo": "D"
+}]

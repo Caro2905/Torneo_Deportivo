@@ -1,0 +1,1244 @@
+[{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac82e"
+  },
+  "ID_Jugador": 1,
+  "Equipo": "Bayer Munich",
+  "Posición": "Arquero",
+  "Numero_camiseta": 1,
+  "Nombre ": "Manuel",
+  "Apellido": "Neuer",
+  "Pais_Nacimiento": "Alemania",
+  "Edad": 38
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac82f"
+  },
+  "ID_Jugador": 2,
+  "Equipo": "Bayer Munich",
+  "Posición": "Defensa",
+  "Numero_camiseta": 2,
+  "Nombre ": "Dayot",
+  "Apellido": "Upamecano",
+  "Pais_Nacimiento": "Francia",
+  "Edad": 25
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac830"
+  },
+  "ID_Jugador": 3,
+  "Equipo": "Bayer Munich",
+  "Posición": "Pivote",
+  "Numero_camiseta": 6,
+  "Nombre ": "Joshua",
+  "Apellido": "Kimmich",
+  "Pais_Nacimiento": "Alemania",
+  "Edad": 29
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac831"
+  },
+  "ID_Jugador": 4,
+  "Equipo": "Bayer Munich",
+  "Posición": "Volante",
+  "Numero_camiseta": 42,
+  "Nombre ": "Jamal",
+  "Apellido": "Musiala",
+  "Pais_Nacimiento": "Alemania",
+  "Edad": 21
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac832"
+  },
+  "ID_Jugador": 5,
+  "Equipo": "Bayer Munich",
+  "Posición": "Volante",
+  "Numero_camiseta": 25,
+  "Nombre ": "Thomas ",
+  "Apellido": "Muller",
+  "Pais_Nacimiento": "Alemania",
+  "Edad": 34
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac833"
+  },
+  "ID_Jugador": 6,
+  "Equipo": "Bayer Munich",
+  "Posición": "Delantero",
+  "Numero_camiseta": 9,
+  "Nombre ": "Harry",
+  "Apellido": "Kane",
+  "Pais_Nacimiento": "Inglaterra",
+  "Edad": 30
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac834"
+  },
+  "ID_Jugador": 7,
+  "Equipo": "Borussia Dortmund",
+  "Posición": "Arquero",
+  "Numero_camiseta": 1,
+  "Nombre ": "Gregor",
+  "Apellido": "Kobel",
+  "Pais_Nacimiento": "Suiza",
+  "Edad": 26
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac835"
+  },
+  "ID_Jugador": 8,
+  "Equipo": "Borussia Dortmund",
+  "Posición": "Defensa",
+  "Numero_camiseta": 15,
+  "Nombre ": "Mats",
+  "Apellido": "Hummels",
+  "Pais_Nacimiento": "Alemania",
+  "Edad": 35
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac836"
+  },
+  "ID_Jugador": 9,
+  "Equipo": "Borussia Dortmund",
+  "Posición": "Defensa",
+  "Numero_camiseta": 4,
+  "Nombre ": "Nico",
+  "Apellido": "Schlotterbeck",
+  "Pais_Nacimiento": "Alemania",
+  "Edad": 24
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac837"
+  },
+  "ID_Jugador": 10,
+  "Equipo": "Borussia Dortmund",
+  "Posición": "Extremo",
+  "Numero_camiseta": 11,
+  "Nombre ": "Marco",
+  "Apellido": "Reus",
+  "Pais_Nacimiento": "Alemania",
+  "Edad": 34
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac838"
+  },
+  "ID_Jugador": 11,
+  "Equipo": "Borussia Dortmund",
+  "Posición": "Extremo",
+  "Numero_camiseta": 10,
+  "Nombre ": "Jadon",
+  "Apellido": "Sancho",
+  "Pais_Nacimiento": "Inglaterra",
+  "Edad": 26
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac839"
+  },
+  "ID_Jugador": 12,
+  "Equipo": "Borussia Dortmund",
+  "Posición": "Delantero",
+  "Numero_camiseta": 14,
+  "Nombre ": "Niklas",
+  "Apellido": "Fullkrug",
+  "Pais_Nacimiento": "Alemania",
+  "Edad": 33
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac83a"
+  },
+  "ID_Jugador": 13,
+  "Equipo": "Arsenal",
+  "Posición": "Arquero",
+  "Numero_camiseta": 1,
+  "Nombre ": "David",
+  "Apellido": "Raya",
+  "Pais_Nacimiento": "España",
+  "Edad": 25
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac83b"
+  },
+  "ID_Jugador": 14,
+  "Equipo": "Arsenal",
+  "Posición": "Defensa",
+  "Numero_camiseta": 3,
+  "Nombre ": "Gabriel",
+  "Apellido": "Maghalaes",
+  "Pais_Nacimiento": "Brasil",
+  "Edad": 23
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac83c"
+  },
+  "ID_Jugador": 15,
+  "Equipo": "Arsenal",
+  "Posición": "Pivote",
+  "Numero_camiseta": 47,
+  "Nombre ": "Declan ",
+  "Apellido": "rice",
+  "Pais_Nacimiento": "Inglaterra",
+  "Edad": 22
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac83d"
+  },
+  "ID_Jugador": 16,
+  "Equipo": "Arsenal",
+  "Posición": "Volante",
+  "Numero_camiseta": 8,
+  "Nombre ": "Martin",
+  "Apellido": "Odegard",
+  "Pais_Nacimiento": "Noruega",
+  "Edad": 28
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac83e"
+  },
+  "ID_Jugador": 17,
+  "Equipo": "Arsenal",
+  "Posición": "Extremo",
+  "Numero_camiseta": 7,
+  "Nombre ": "Bukayo",
+  "Apellido": "Saka",
+  "Pais_Nacimiento": "Inglaterra",
+  "Edad": 21
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac83f"
+  },
+  "ID_Jugador": 18,
+  "Equipo": "Arsenal",
+  "Posición": "Delantero",
+  "Numero_camiseta": 9,
+  "Nombre ": "Gabriel",
+  "Apellido": "Jesus",
+  "Pais_Nacimiento": "Brasil",
+  "Edad": 27
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac840"
+  },
+  "ID_Jugador": 19,
+  "Equipo": "Sevilla",
+  "Posición": "Arquero",
+  "Numero_camiseta": 1,
+  "Nombre ": "Ouan",
+  "Apellido": "Nyland",
+  "Pais_Nacimiento": "Noruega",
+  "Edad": 22
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac841"
+  },
+  "ID_Jugador": 20,
+  "Equipo": "Sevilla",
+  "Posición": "Defensa",
+  "Numero_camiseta": 4,
+  "Nombre ": "Sergio",
+  "Apellido": "Ramos",
+  "Pais_Nacimiento": "España",
+  "Edad": 4
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac842"
+  },
+  "ID_Jugador": 21,
+  "Equipo": "Sevilla",
+  "Posición": "Volante",
+  "Numero_camiseta": 5,
+  "Nombre ": "Bryan",
+  "Apellido": "Soumare",
+  "Pais_Nacimiento": "Camerun",
+  "Edad": 24
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac843"
+  },
+  "ID_Jugador": 22,
+  "Equipo": "Sevilla",
+  "Posición": "Volante",
+  "Numero_camiseta": 8,
+  "Nombre ": "Edin ",
+  "Apellido": "Ocampos",
+  "Pais_Nacimiento": "Argentina",
+  "Edad": 5
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac844"
+  },
+  "ID_Jugador": 23,
+  "Equipo": "Sevilla",
+  "Posición": "Delantero",
+  "Numero_camiseta": 42,
+  "Nombre ": "El -",
+  "Apellido": "Neysiry",
+  "Pais_Nacimiento": "Marruecos",
+  "Edad": 15
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac845"
+  },
+  "ID_Jugador": 24,
+  "Equipo": "Sevilla",
+  "Posición": "Delantero",
+  "Numero_camiseta": 15,
+  "Nombre ": "Esequiel ",
+  "Apellido": "Palacios",
+  "Pais_Nacimiento": "Argentina",
+  "Edad": 9
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac846"
+  },
+  "ID_Jugador": 25,
+  "Equipo": "Real madrid",
+  "Posición": "Portero",
+  "Numero_camiseta": 1,
+  "Nombre ": "Thibaout",
+  "Apellido": "Cortouis",
+  "Pais_Nacimiento": "Belgica",
+  "Edad": 1
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac847"
+  },
+  "ID_Jugador": 26,
+  "Equipo": "Real madrid",
+  "Posición": "Defensa",
+  "Numero_camiseta": 23,
+  "Nombre ": "Antonio",
+  "Apellido": "Rudiguer",
+  "Pais_Nacimiento": "Alemania",
+  "Edad": 26
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac848"
+  },
+  "ID_Jugador": 27,
+  "Equipo": "Real madrid",
+  "Posición": "Volante",
+  "Numero_camiseta": 10,
+  "Nombre ": "Luka",
+  "Apellido": "Modric",
+  "Pais_Nacimiento": "Croacia",
+  "Edad": 38
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac849"
+  },
+  "ID_Jugador": 28,
+  "Equipo": "Real madrid",
+  "Posición": "Volante",
+  "Numero_camiseta": 5,
+  "Nombre ": "Jude",
+  "Apellido": "Bellingam",
+  "Pais_Nacimiento": "Inglaterraa",
+  "Edad": 20
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac84a"
+  },
+  "ID_Jugador": 29,
+  "Equipo": "Real madrid",
+  "Posición": "Extremo",
+  "Numero_camiseta": 7,
+  "Nombre ": "Vinicius",
+  "Apellido": "Jr",
+  "Pais_Nacimiento": "Brasil",
+  "Edad": 24
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac84b"
+  },
+  "ID_Jugador": 30,
+  "Equipo": "Real madrid",
+  "Posición": "Extremo",
+  "Numero_camiseta": 11,
+  "Nombre ": "Rodrygo",
+  "Apellido": "Goes",
+  "Pais_Nacimiento": "Brasil",
+  "Edad": 25
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac84c"
+  },
+  "ID_Jugador": 31,
+  "Equipo": "Napoli",
+  "Posición": "Portero",
+  "Numero_camiseta": 1,
+  "Nombre ": "Alex",
+  "Apellido": "Meret",
+  "Pais_Nacimiento": "Francia",
+  "Edad": 32
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac84d"
+  },
+  "ID_Jugador": 32,
+  "Equipo": "Napoli",
+  "Posición": "Defensa",
+  "Numero_camiseta": 5,
+  "Nombre ": "Juan",
+  "Apellido": ".",
+  "Pais_Nacimiento": "Brasil",
+  "Edad": 30
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac84e"
+  },
+  "ID_Jugador": 33,
+  "Equipo": "Napoli",
+  "Posición": "Volante",
+  "Numero_camiseta": 68,
+  "Nombre ": "Louis",
+  "Apellido": "Lobogta",
+  "Pais_Nacimiento": "Italia",
+  "Edad": 29
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac84f"
+  },
+  "ID_Jugador": 34,
+  "Equipo": "Napoli",
+  "Posición": "Extremo",
+  "Numero_camiseta": 21,
+  "Nombre ": "Matias",
+  "Apellido": "Politano",
+  "Pais_Nacimiento": "Italia",
+  "Edad": 24
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac850"
+  },
+  "ID_Jugador": 35,
+  "Equipo": "Napoli",
+  "Posición": "Extremo",
+  "Numero_camiseta": 77,
+  "Nombre ": "Krava",
+  "Apellido": "Kavaratshkelia",
+  "Pais_Nacimiento": "Georgia",
+  "Edad": 24
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac851"
+  },
+  "ID_Jugador": 36,
+  "Equipo": "Napoli",
+  "Posición": "Delantero",
+  "Numero_camiseta": 9,
+  "Nombre ": "Victor",
+  "Apellido": "Osimen",
+  "Pais_Nacimiento": "Nigeria",
+  "Edad": 26
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac852"
+  },
+  "ID_Jugador": 37,
+  "Equipo": "M. city",
+  "Posición": "Portero",
+  "Numero_camiseta": 1,
+  "Nombre ": "Ederson",
+  "Apellido": "Moraes",
+  "Pais_Nacimiento": "Brasil",
+  "Edad": 31
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac853"
+  },
+  "ID_Jugador": 38,
+  "Equipo": "M. city",
+  "Posición": "Defensa",
+  "Numero_camiseta": 3,
+  "Nombre ": "Ruben",
+  "Apellido": "Diaz",
+  "Pais_Nacimiento": "Portugal",
+  "Edad": 28
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac854"
+  },
+  "ID_Jugador": 39,
+  "Equipo": "M. city",
+  "Posición": "Volante",
+  "Numero_camiseta": 16,
+  "Nombre ": "Rodri",
+  "Pais_Nacimiento": "España",
+  "Edad": 24
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac855"
+  },
+  "ID_Jugador": 40,
+  "Equipo": "M. city",
+  "Posición": "Volante",
+  "Numero_camiseta": 17,
+  "Nombre ": "Kevin",
+  "Apellido": "De Bruyne",
+  "Pais_Nacimiento": "Belgica",
+  "Edad": 30
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac856"
+  },
+  "ID_Jugador": 41,
+  "Equipo": "M. city",
+  "Posición": "Volante",
+  "Numero_camiseta": 47,
+  "Nombre ": "Phil",
+  "Apellido": "Foden",
+  "Pais_Nacimiento": "Inglaterra",
+  "Edad": 25
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac857"
+  },
+  "ID_Jugador": 42,
+  "Equipo": "M. city",
+  "Posición": "Delantero",
+  "Numero_camiseta": 9,
+  "Nombre ": "Erling",
+  "Apellido": "Halaand",
+  "Pais_Nacimiento": "Noruega",
+  "Edad": 23
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac858"
+  },
+  "ID_Jugador": 43,
+  "Equipo": "Leverkusen",
+  "Posición": "Portero",
+  "Numero_camiseta": 1,
+  "Nombre ": "Mark",
+  "Apellido": "Kovar",
+  "Pais_Nacimiento": "Croacia",
+  "Edad": 26
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac859"
+  },
+  "ID_Jugador": 44,
+  "Equipo": "Leverkusen",
+  "Posición": "Defensa",
+  "Numero_camiseta": 4,
+  "Nombre ": "Jonathan ",
+  "Apellido": "Tah",
+  "Pais_Nacimiento": "Canada",
+  "Edad": 22
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac85a"
+  },
+  "ID_Jugador": 45,
+  "Equipo": "Leverkusen",
+  "Posición": "Volante",
+  "Numero_camiseta": 32,
+  "Nombre ": "Gustavo",
+  "Apellido": "Puerta",
+  "Pais_Nacimiento": "Colombia",
+  "Edad": 21
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac85b"
+  },
+  "ID_Jugador": 46,
+  "Equipo": "Leverkusen",
+  "Posición": "Volante",
+  "Numero_camiseta": 34,
+  "Nombre ": "Granit",
+  "Apellido": "Xhaka",
+  "Pais_Nacimiento": "Suiza",
+  "Edad": 34
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac85c"
+  },
+  "ID_Jugador": 47,
+  "Equipo": "Leverkusen",
+  "Posición": "Volante",
+  "Numero_camiseta": 10,
+  "Nombre ": "Florian",
+  "Apellido": "Wirtz",
+  "Pais_Nacimiento": "Alemania",
+  "Edad": 22
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac85d"
+  },
+  "ID_Jugador": 48,
+  "Equipo": "Leverkusen",
+  "Posición": "Delantero",
+  "Numero_camiseta": 7,
+  "Nombre ": "Jonas",
+  "Apellido": "Hoffman",
+  "Pais_Nacimiento": "Alemania",
+  "Edad": 26
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac85e"
+  },
+  "ID_Jugador": 49,
+  "Equipo": "Inter",
+  "Posición": "Portero",
+  "Numero_camiseta": 1,
+  "Nombre ": "Yann",
+  "Apellido": "Sommer",
+  "Pais_Nacimiento": "Suiza",
+  "Edad": 33
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac85f"
+  },
+  "ID_Jugador": 50,
+  "Equipo": "Inter",
+  "Posición": "Defensa",
+  "Numero_camiseta": 16,
+  "Nombre ": "Marco",
+  "Apellido": "Acerbi",
+  "Pais_Nacimiento": "Italia",
+  "Edad": 26
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac860"
+  },
+  "ID_Jugador": 51,
+  "Equipo": "Inter",
+  "Posición": "Volante",
+  "Numero_camiseta": 22,
+  "Nombre ": "Hal",
+  "Apellido": "Mirykitan",
+  "Pais_Nacimiento": "Armenia",
+  "Edad": 36
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac861"
+  },
+  "ID_Jugador": 52,
+  "Equipo": "Inter",
+  "Posición": "Delantero",
+  "Numero_camiseta": 9,
+  "Nombre ": "Marcus",
+  "Apellido": "Thuram",
+  "Pais_Nacimiento": "Francia",
+  "Edad": 25
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac862"
+  },
+  "ID_Jugador": 53,
+  "Equipo": "Inter",
+  "Posición": "Delantero",
+  "Numero_camiseta": 70,
+  "Nombre ": "Alexis",
+  "Apellido": "Sanchez",
+  "Pais_Nacimiento": "Chile",
+  "Edad": 35
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac863"
+  },
+  "ID_Jugador": 54,
+  "Equipo": "Inter",
+  "Posición": "Delantero",
+  "Numero_camiseta": 10,
+  "Nombre ": "Lautaro",
+  "Apellido": "Martinez",
+  "Pais_Nacimiento": "Argentina",
+  "Edad": 27
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac864"
+  },
+  "ID_Jugador": 55,
+  "Equipo": "M.united",
+  "Posición": "Portero",
+  "Numero_camiseta": 1,
+  "Nombre ": "Andre",
+  "Apellido": "Onana",
+  "Pais_Nacimiento": "Camerun",
+  "Edad": 26
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac865"
+  },
+  "ID_Jugador": 56,
+  "Equipo": "M.united",
+  "Posición": "Defensa",
+  "Numero_camiseta": 5,
+  "Nombre ": "Harry",
+  "Apellido": "Maguire",
+  "Pais_Nacimiento": "Inglaterra",
+  "Edad": 33
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac866"
+  },
+  "ID_Jugador": 57,
+  "Equipo": "M.united",
+  "Posición": "Volante",
+  "Numero_camiseta": 18,
+  "Nombre ": "Carlos Enrique",
+  "Apellido": "Casemiro",
+  "Pais_Nacimiento": "Brasil",
+  "Edad": 35
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac867"
+  },
+  "ID_Jugador": 58,
+  "Equipo": "M.united",
+  "Posición": "Volante",
+  "Numero_camiseta": 8,
+  "Nombre ": "Bruno",
+  "Apellido": "Fernandez",
+  "Pais_Nacimiento": "Portugal",
+  "Edad": 32
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac868"
+  },
+  "ID_Jugador": 59,
+  "Equipo": "M.united",
+  "Posición": "Delantero",
+  "Numero_camiseta": 17,
+  "Nombre ": "Alejandro",
+  "Apellido": "Garnacho",
+  "Pais_Nacimiento": "Argentina",
+  "Edad": 21
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac869"
+  },
+  "ID_Jugador": 60,
+  "Equipo": "M.united",
+  "Posición": "Delantero",
+  "Numero_camiseta": 10,
+  "Nombre ": "Marcus",
+  "Apellido": "Rashford",
+  "Pais_Nacimiento": "Inglaterra",
+  "Edad": 25
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac86a"
+  },
+  "ID_Jugador": 61,
+  "Equipo": "Barcelona",
+  "Posición": "Arquero",
+  "Numero_camiseta": 1,
+  "Nombre ": "Marc andre",
+  "Apellido": "Ter-stegen",
+  "Pais_Nacimiento": "Alemania",
+  "Edad": 32
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac86b"
+  },
+  "ID_Jugador": 62,
+  "Equipo": "Barcelona",
+  "Posición": "Defensa",
+  "Numero_camiseta": 4,
+  "Nombre ": "Ronald",
+  "Apellido": "Araujo",
+  "Pais_Nacimiento": "Uruguay",
+  "Edad": 25
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac86c"
+  },
+  "ID_Jugador": 63,
+  "Equipo": "Barcelona",
+  "Posición": "Volante",
+  "Numero_camiseta": 8,
+  "Nombre ": "Pedri",
+  "Pais_Nacimiento": "España",
+  "Edad": 21
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac86d"
+  },
+  "ID_Jugador": 64,
+  "Equipo": "Barcelona",
+  "Posición": "Volante",
+  "Numero_camiseta": 32,
+  "Nombre ": "Ikay",
+  "Apellido": "Gundogan",
+  "Pais_Nacimiento": "Alemania",
+  "Edad": 33
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac86e"
+  },
+  "ID_Jugador": 65,
+  "Equipo": "Barcelona",
+  "Posición": "Delantero",
+  "Numero_camiseta": 14,
+  "Nombre ": "Joao",
+  "Apellido": "Felix",
+  "Pais_Nacimiento": "Portugal",
+  "Edad": 25
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac86f"
+  },
+  "ID_Jugador": 66,
+  "Equipo": "Barcelona",
+  "Posición": "Delantero",
+  "Numero_camiseta": 9,
+  "Nombre ": "Robert",
+  "Apellido": "Lewandowski",
+  "Pais_Nacimiento": "Polonia",
+  "Edad": 36
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac870"
+  },
+  "ID_Jugador": 67,
+  "Equipo": "Psg",
+  "Posición": "Arquero",
+  "Numero_camiseta": 1,
+  "Nombre ": "Gianluigi",
+  "Apellido": "Donarumma",
+  "Pais_Nacimiento": "Italia",
+  "Edad": 24
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac871"
+  },
+  "ID_Jugador": 68,
+  "Equipo": "Psg",
+  "Posición": "Defensa",
+  "Numero_camiseta": 5,
+  "Nombre ": "Marcos",
+  "Apellido": "Marquinhos",
+  "Pais_Nacimiento": "Brasil",
+  "Edad": 29
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac872"
+  },
+  "ID_Jugador": 69,
+  "Equipo": "Psg",
+  "Posición": "Volante",
+  "Numero_camiseta": 17,
+  "Nombre ": "Joao",
+  "Apellido": "Vithinha",
+  "Pais_Nacimiento": "Portugal",
+  "Edad": 19
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac873"
+  },
+  "ID_Jugador": 70,
+  "Equipo": "Psg",
+  "Posición": "Extremo",
+  "Numero_camiseta": 10,
+  "Nombre ": "Ousmane",
+  "Apellido": "Dembele",
+  "Pais_Nacimiento": "Francia",
+  "Edad": 22
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac874"
+  },
+  "ID_Jugador": 71,
+  "Equipo": "Psg",
+  "Posición": "Extremo",
+  "Numero_camiseta": 7,
+  "Nombre ": "Kylian",
+  "Apellido": "Mbappe",
+  "Pais_Nacimiento": "Francia",
+  "Edad": 24
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac875"
+  },
+  "ID_Jugador": 72,
+  "Equipo": "Psg",
+  "Posición": "Delantero",
+  "Numero_camiseta": 9,
+  "Nombre ": "Goncalo",
+  "Apellido": "Ramos",
+  "Pais_Nacimiento": "Portugal",
+  "Edad": 24
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac876"
+  },
+  "ID_Jugador": 73,
+  "Equipo": "Chelsea",
+  "Posición": "Arquero",
+  "Numero_camiseta": 1,
+  "Nombre ": "Dominik",
+  "Apellido": "Petrovic",
+  "Pais_Nacimiento": "Croacia",
+  "Edad": 14
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac877"
+  },
+  "ID_Jugador": 74,
+  "Equipo": "Chelsea",
+  "Posición": "Defensa",
+  "Numero_camiseta": 4,
+  "Nombre ": "Thiago",
+  "Apellido": "Silva",
+  "Pais_Nacimiento": "Brasil",
+  "Edad": 37
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac878"
+  },
+  "ID_Jugador": 75,
+  "Equipo": "Chelsea",
+  "Posición": "Volante",
+  "Numero_camiseta": 23,
+  "Nombre ": "Connor",
+  "Apellido": "Gallagher",
+  "Pais_Nacimiento": "inglaterra",
+  "Edad": 24
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac879"
+  },
+  "ID_Jugador": 76,
+  "Equipo": "Chelsea",
+  "Posición": "Volante",
+  "Numero_camiseta": 20,
+  "Nombre ": "Cole",
+  "Apellido": "Palmer",
+  "Pais_Nacimiento": "Inglaterra",
+  "Edad": 22
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac87a"
+  },
+  "ID_Jugador": 77,
+  "Equipo": "Chelsea",
+  "Posición": "Volante",
+  "Numero_camiseta": 30,
+  "Nombre ": "Enzo",
+  "Apellido": "Fernandez",
+  "Pais_Nacimiento": "Argentina",
+  "Edad": 21
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac87b"
+  },
+  "ID_Jugador": 78,
+  "Equipo": "Chelsea",
+  "Posición": "Delantero",
+  "Numero_camiseta": 15,
+  "Nombre ": "Nicolas",
+  "Apellido": "Jackson",
+  "Pais_Nacimiento": "Senegal",
+  "Edad": 22
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac87c"
+  },
+  "ID_Jugador": 79,
+  "Equipo": "Milan",
+  "Posición": "Arquero",
+  "Numero_camiseta": 1,
+  "Nombre ": "Mike ",
+  "Apellido": "Maingnan",
+  "Pais_Nacimiento": "Francia",
+  "Edad": 23
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac87d"
+  },
+  "ID_Jugador": 80,
+  "Equipo": "Milan",
+  "Posición": "Defensa",
+  "Numero_camiseta": 28,
+  "Nombre ": "Matias",
+  "Apellido": "Gabbia",
+  "Pais_Nacimiento": "Italia",
+  "Edad": 26
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac87e"
+  },
+  "ID_Jugador": 81,
+  "Equipo": "Milan",
+  "Posición": "Volante",
+  "Numero_camiseta": 4,
+  "Nombre ": "Ouar",
+  "Apellido": "Bennacer",
+  "Pais_Nacimiento": "Francia",
+  "Edad": 34
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac87f"
+  },
+  "ID_Jugador": 82,
+  "Equipo": "Milan",
+  "Posición": "Extremo",
+  "Numero_camiseta": 11,
+  "Nombre ": "Cristian",
+  "Apellido": "Pulisic",
+  "Pais_Nacimiento": "E.E U.U",
+  "Edad": 21
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac880"
+  },
+  "ID_Jugador": 83,
+  "Equipo": "Milan",
+  "Posición": "Extremo",
+  "Numero_camiseta": 10,
+  "Nombre ": "Rafael",
+  "Apellido": "Leao",
+  "Pais_Nacimiento": "Portugal",
+  "Edad": 20
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac881"
+  },
+  "ID_Jugador": 84,
+  "Equipo": "Milan",
+  "Posición": "Delantero",
+  "Numero_camiseta": 9,
+  "Nombre ": "Oliver ",
+  "Apellido": "Giroud",
+  "Pais_Nacimiento": "Francia",
+  "Edad": 33
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac882"
+  },
+  "ID_Jugador": 85,
+  "Equipo": "Atletico de Madrid",
+  "Posición": "Arquero",
+  "Numero_camiseta": 1,
+  "Nombre ": "Jan",
+  "Apellido": "Oblak",
+  "Pais_Nacimiento": "Eslovenia",
+  "Edad": 28
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac883"
+  },
+  "ID_Jugador": 86,
+  "Equipo": "Atletico de Madrid",
+  "Posición": "Defensa",
+  "Numero_camiseta": 5,
+  "Nombre ": "Nahuel",
+  "Apellido": "Molina",
+  "Pais_Nacimiento": "Argentina",
+  "Edad": 26
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac884"
+  },
+  "ID_Jugador": 87,
+  "Equipo": "Atletico de Madrid",
+  "Posición": "Volante ",
+  "Numero_camiseta": 6,
+  "Nombre ": "Koke",
+  "Pais_Nacimiento": "España",
+  "Edad": 35
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac885"
+  },
+  "ID_Jugador": 88,
+  "Equipo": "Atletico de Madrid",
+  "Posición": "Volante ",
+  "Numero_camiseta": 14,
+  "Nombre ": "Rodrigo",
+  "Apellido": "De Paul",
+  "Pais_Nacimiento": "Argentina",
+  "Edad": 28
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac886"
+  },
+  "ID_Jugador": 89,
+  "Equipo": "Atletico de Madrid",
+  "Posición": "Delantero",
+  "Numero_camiseta": 9,
+  "Nombre ": "Alvaro",
+  "Apellido": "Morata",
+  "Pais_Nacimiento": "España",
+  "Edad": 31
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac887"
+  },
+  "ID_Jugador": 90,
+  "Equipo": "Atletico de Madrid",
+  "Posición": "Delantero",
+  "Numero_camiseta": 7,
+  "Nombre ": "Antoine",
+  "Apellido": "Griezmann",
+  "Pais_Nacimiento": "Francia",
+  "Edad": 32
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac888"
+  },
+  "ID_Jugador": 91,
+  "Equipo": "Porto",
+  "Posición": "Arquero",
+  "Numero_camiseta": 1,
+  "Nombre ": "Diogo",
+  "Apellido": "Costa",
+  "Pais_Nacimiento": "Portugal",
+  "Edad": 30
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac889"
+  },
+  "ID_Jugador": 92,
+  "Equipo": "Porto",
+  "Posición": "Defensa",
+  "Numero_camiseta": 3,
+  "Nombre ": "Pepe",
+  "Pais_Nacimiento": "Portugal",
+  "Edad": 39
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac88a"
+  },
+  "ID_Jugador": 93,
+  "Equipo": "Porto",
+  "Posición": "Defensa",
+  "Numero_camiseta": 6,
+  "Nombre ": "Otavio",
+  "Apellido": "Mesa",
+  "Pais_Nacimiento": "Portugal",
+  "Edad": 28
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac88b"
+  },
+  "ID_Jugador": 94,
+  "Equipo": "Porto",
+  "Posición": "Volante",
+  "Numero_camiseta": 16,
+  "Nombre ": "Nico",
+  "Apellido": "Gonzales",
+  "Pais_Nacimiento": "Argentina",
+  "Edad": 31
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac88c"
+  },
+  "ID_Jugador": 95,
+  "Equipo": "Porto",
+  "Posición": "Delantero",
+  "Numero_camiseta": 11,
+  "Nombre ": "Joao",
+  "Apellido": "Mario",
+  "Pais_Nacimiento": "Portugal",
+  "Edad": 32
+},
+{
+  "_id": {
+    "$oid": "664029f0262fd82a8edac88d"
+  },
+  "ID_Jugador": 96,
+  "Equipo": "Porto",
+  "Posición": "Delantero",
+  "Numero_camiseta": 9,
+  "Nombre ": "Mehdi",
+  "Apellido": "Taremi",
+  "Pais_Nacimiento": "Iran",
+  "Edad": 30
+}]

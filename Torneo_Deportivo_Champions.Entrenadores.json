@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "663c5562262fd82a8edac814"
+  },
+  "ID_Entrenador": 1,
+  "Pais_Nacimiento": "Alemania",
+  "Equipo": "Bayer Munich",
+  "Nombre ": "Thomas",
+  "Apellido": "Tuchel",
+  "Edad": 50
+},
+{
+  "_id": {
+    "$oid": "663c5562262fd82a8edac815"
+  },
+  "ID_Entrenador": 2,
+  "Pais_Nacimiento": "Alemania",
+  "Equipo": "Borussia Dortmund",
+  "Nombre ": "Edin",
+  "Apellido": "Terzic",
+  "Edad": 30
+},
+{
+  "_id": {
+    "$oid": "663c5562262fd82a8edac816"
+  },
+  "ID_Entrenador": 3,
+  "Pais_Nacimiento": "España",
+  "Equipo": "Arsenal",
+  "Nombre ": "Mikel",
+  "Apellido": "Arteta",
+  "Edad": 42
+},
+{
+  "_id": {
+    "$oid": "663c5562262fd82a8edac817"
+  },
+  "ID_Entrenador": 4,
+  "Pais_Nacimiento": "España",
+  "Equipo": "Sevilla",
+  "Nombre ": "Quique",
+  "Apellido": "Sanchez",
+  "Edad": 58
+},
+{
+  "_id": {
+    "$oid": "663c5562262fd82a8edac818"
+  },
+  "ID_Entrenador": 5,
+  "Pais_Nacimiento": "Italia",
+  "Equipo": "Real Madrid",
+  "Nombre ": "Carlo",
+  "Apellido": "Ancelloti",
+  "Edad": 64
+},
+{
+  "_id": {
+    "$oid": "663c5562262fd82a8edac819"
+  },
+  "ID_Entrenador": 6,
+  "Pais_Nacimiento": "Italia",
+  "Equipo": "Napoli",
+  "Nombre ": "Francesco ",
+  "Apellido": "Calzona",
+  "Edad": 55
+},
+{
+  "_id": {
+    "$oid": "663c5562262fd82a8edac81a"
+  },
+  "ID_Entrenador": 7,
+  "Pais_Nacimiento": "España",
+  "Equipo": "Manchester City",
+  "Nombre ": "Pep",
+  "Apellido": "Guardiola",
+  "Edad": 53
+},
+{
+  "_id": {
+    "$oid": "663c5562262fd82a8edac81b"
+  },
+  "ID_Entrenador": 8,
+  "Pais_Nacimiento": "España",
+  "Equipo": "Leverkusen",
+  "Nombre ": "Xabi",
+  "Apellido": "Alonso",
+  "Edad": 42
+},
+{
+  "_id": {
+    "$oid": "663c5562262fd82a8edac81c"
+  },
+  "ID_Entrenador": 9,
+  "Pais_Nacimiento": "Italia",
+  "Equipo": "Inter de Milan",
+  "Nombre ": "Simone",
+  "Apellido": "Inzaghi",
+  "Edad": 48
+},
+{
+  "_id": {
+    "$oid": "663c5562262fd82a8edac81d"
+  },
+  "ID_Entrenador": 10,
+  "Pais_Nacimiento": "Paises Bajos",
+  "Equipo": "Manchester United",
+  "Nombre ": "Erik",
+  "Apellido": "Hag",
+  "Edad": 54
+},
+{
+  "_id": {
+    "$oid": "663c5562262fd82a8edac81e"
+  },
+  "ID_Entrenador": 11,
+  "Pais_Nacimiento": "España",
+  "Equipo": "Barcelona",
+  "Nombre ": "Xavi",
+  "Apellido": "Hernandez",
+  "Edad": 44
+},
+{
+  "_id": {
+    "$oid": "663c5562262fd82a8edac81f"
+  },
+  "ID_Entrenador": 12,
+  "Pais_Nacimiento": "España",
+  "Equipo": "PSG",
+  "Nombre ": "Luis Enrique",
+  "Apellido": "Martinez",
+  "Edad": 54
+},
+{
+  "_id": {
+    "$oid": "663c5562262fd82a8edac820"
+  },
+  "ID_Entrenador": 13,
+  "Pais_Nacimiento": "Argentina",
+  "Equipo": "Chelsea",
+  "Nombre ": "Mauricio",
+  "Apellido": "Pochettino",
+  "Edad": 52
+},
+{
+  "_id": {
+    "$oid": "663c5562262fd82a8edac821"
+  },
+  "ID_Entrenador": 14,
+  "Pais_Nacimiento": "Italia",
+  "Equipo": "Milan",
+  "Nombre ": "Stefano",
+  "Apellido": "Pioli",
+  "Edad": 58
+},
+{
+  "_id": {
+    "$oid": "663c5562262fd82a8edac822"
+  },
+  "ID_Entrenador": 15,
+  "Pais_Nacimiento": "Argentina",
+  "Equipo": "Atletico de Madrid",
+  "Nombre ": "Diego",
+  "Apellido": "Simeone",
+  "Edad": 54
+},
+{
+  "_id": {
+    "$oid": "663c5562262fd82a8edac823"
+  },
+  "ID_Entrenador": 16,
+  "Pais_Nacimiento": "Portugal",
+  "Equipo": "Porto",
+  "Nombre ": "Sergio",
+  "Apellido": "Conceicao",
+  "Edad": 49
+}]

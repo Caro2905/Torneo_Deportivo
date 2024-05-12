@@ -1,0 +1,402 @@
+[{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac892"
+  },
+  "GRUPO": "A",
+  "EQUIPO 1": "Bayern Munich   ",
+  "VS": "Vs",
+  "EQUIPO 2": "Borussia Dormunt",
+  "FECHA": "14/09/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "BAY 1-0 BOR",
+  "JUGADORES_ANOTARON": "H.Kane 58(P)"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac893"
+  },
+  "GRUPO": "A",
+  "EQUIPO 1": "Arsenal",
+  "VS": "Vs",
+  "EQUIPO 2": "Sevilla",
+  "FECHA": "15/09/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "ARS 4-1 SEV",
+  "JUGADORES_ANOTARON": "B.Saka 11,39  G.Jesus 68,   S.Ramos 90"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac894"
+  },
+  "GRUPO": "A",
+  "EQUIPO 1": "Bayern  Munich",
+  "VS": "Vs",
+  "EQUIPO 2": "Arsenal",
+  "FECHA": "14/10/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "BAY 0-1 ARS",
+  "JUGADORES_ANOTARON": "Saka 84(P)"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac895"
+  },
+  "GRUPO": "A",
+  "EQUIPO 1": "Borussia Dormunt",
+  "VS": "Vs",
+  "EQUIPO 2": "Sevilla",
+  "FECHA": "15/10/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "BOR 4-0 SEV",
+  "JUGADORES_ANOTARON": "Reus 2,34,66,87"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac896"
+  },
+  "GRUPO": "A",
+  "EQUIPO 1": "Bayern Munich",
+  "VS": "Vs",
+  "EQUIPO 2": "Sevilla",
+  "FECHA": "14/11/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "BAY 2-0 SEV",
+  "JUGADORES_ANOTARON": "H.Kane 3,59(P)"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac897"
+  },
+  "GRUPO": "A",
+  "EQUIPO 1": "Borussia Dormunt",
+  "VS": "Vs",
+  "EQUIPO 2": "Arsenal",
+  "FECHA": "15/11/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "BOR 0-1 ARS",
+  "JUGADORES_ANOTARON": "Odegard 56"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac898"
+  },
+  "GRUPO": "B",
+  "EQUIPO 1": "Real Madrid",
+  "VS": "Vs",
+  "EQUIPO 2": "Napoli",
+  "FECHA": "   16/09/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "RM  4-2 NAP",
+  "JUGADORES_ANOTARON": "J.Bellingam 2,82  Vinicius 7,62  Oshimeh 7,61 Osimen  33 90"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac899"
+  },
+  "GRUPO": "B",
+  "EQUIPO 1": "Manchester City",
+  "VS": "Vs",
+  "EQUIPO 2": "Leverkusen",
+  "FECHA": "17/09/2024",
+  "HORA": "8:00 p.m",
+  "RESULTADO": "MAN 1-1 BAY",
+  "JUGADORES_ANOTARON": "Halaand 22      Wirtz 66"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac89a"
+  },
+  "GRUPO": "B",
+  "EQUIPO 1": "Real Madrid",
+  "VS": "Vs",
+  "EQUIPO 2": "Manchester City",
+  "FECHA": "16/10/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "RM 1-1 MAN",
+  "JUGADORES_ANOTARON": "Vinicius 80     Halaand 90+1"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac89b"
+  },
+  "GRUPO": "B",
+  "EQUIPO 1": "Napoli",
+  "VS": "Vs",
+  "EQUIPO 2": "Leverkusen",
+  "FECHA": "17/10/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "NAP 0-2 LEV",
+  "JUGADORES_ANOTARON": "Wirtz 2,77(P)"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac89c"
+  },
+  "GRUPO": "B",
+  "EQUIPO 1": "Real Madrid",
+  "VS": "Vs",
+  "EQUIPO 2": "Leverkusen",
+  "FECHA": "16/11/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "RM 2-1 LEV ",
+  "JUGADORES_ANOTARON": "Vinicius 2,41  Wirtz 23"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac89d"
+  },
+  "GRUPO": "B",
+  "EQUIPO 1": "Manchester City",
+  "VS": "Vs",
+  "EQUIPO 2": "Napoli",
+  "FECHA": "17/11/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "MAN 0-0 NAP"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac89e"
+  },
+  "GRUPO": "C",
+  "EQUIPO 1": "Inter",
+  "VS": "Vs",
+  "EQUIPO 2": "Manchester united",
+  "FECHA": "18/09/2024",
+  "HORA": "8:00 p.m",
+  "RESULTADO": "INT 2-3 MUN",
+  "JUGADORES_ANOTARON": "Lautaro 3,8(P) 74    Garnacho 16,51"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac89f"
+  },
+  "GRUPO": "C",
+  "EQUIPO 1": "Barcelona",
+  "VS": "Vs",
+  "EQUIPO 2": "PSG",
+  "FECHA": "19/09/2024",
+  "HORA": "8:00 p.m",
+  "RESULTADO": "BAR 0-3 PSG",
+  "JUGADORES_ANOTARON": "Mbappe 5,39,63"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac8a0"
+  },
+  "GRUPO": "C",
+  "EQUIPO 1": "Inter",
+  "VS": "Vs",
+  "EQUIPO 2": "Barcelona",
+  "FECHA": "18/10/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "INT 2-0 BAR",
+  "JUGADORES_ANOTARON": " Alexis 3,88"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac8a1"
+  },
+  "GRUPO": "C",
+  "EQUIPO 1": "Manchester united",
+  "VS": "Vs",
+  "EQUIPO 2": "PSG",
+  "FECHA": "19/10/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "MUN 1-1 PSG",
+  "JUGADORES_ANOTARON": "Garnacho 33  Mbappe 64"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac8a2"
+  },
+  "GRUPO": "C",
+  "EQUIPO 1": "Inter",
+  "VS": "Vs",
+  "EQUIPO 2": "PSG",
+  "FECHA": "18/11/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "INT 1-2 PSG ",
+  "JUGADORES_ANOTARON": "Lautaro 25  Mbappe 6,76"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac8a3"
+  },
+  "GRUPO": "C",
+  "EQUIPO 1": "Barcelona",
+  "VS": "Vs",
+  "EQUIPO 2": "Manchester united",
+  "FECHA": "19/11/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "BAR 2-2 MUN",
+  "JUGADORES_ANOTARON": "Lewandowski  27,88 Garnacho 2 Bruno 70"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac8a4"
+  },
+  "GRUPO": "D",
+  "EQUIPO 1": "Chelsea",
+  "VS": "Vs",
+  "EQUIPO 2": "Milan",
+  "FECHA": "20/09/2024",
+  "HORA": "8:00 p.m",
+  "RESULTADO": "CHE 2-1 MIL",
+  "JUGADORES_ANOTARON": "C.Palmer 11,62   R.Leao 90+ 4"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac8a5"
+  },
+  "GRUPO": "D",
+  "EQUIPO 1": "Atletico de madrid",
+  "VS": "Vs",
+  "EQUIPO 2": "Porto",
+  "FECHA": "21/09/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "ATL 1-0 POR",
+  "JUGADORES_ANOTARON": "Griezmann 24"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac8a6"
+  },
+  "GRUPO": "D",
+  "EQUIPO 1": "Chelsea  ",
+  "VS": "Vs",
+  "EQUIPO 2": "Atletico de madrid",
+  "FECHA": "20/10/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "CHE 2-0 ATL",
+  "JUGADORES_ANOTARON": "Palmer 3 Enzo 89"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac8a7"
+  },
+  "GRUPO": "D",
+  "EQUIPO 1": "Milan",
+  "VS": "Vs",
+  "EQUIPO 2": "Porto",
+  "FECHA": "21/10/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "MIL 2-0 POR",
+  "JUGADORES_ANOTARON": "Giroud 44,62"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac8a8"
+  },
+  "GRUPO": "D",
+  "EQUIPO 1": "Chelsea",
+  "VS": "Vs",
+  "EQUIPO 2": "Porto",
+  "FECHA": "20/11/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "CHE 4-0 POR",
+  "JUGADORES_ANOTARON": "Palmer 12,33,61,90+5"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac8a9"
+  },
+  "GRUPO": "D",
+  "EQUIPO 1": "Milan ",
+  "VS": "Vs",
+  "EQUIPO 2": "Atletico de madrid",
+  "FECHA": "21/11/2024",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "MIL 2-0 ATL",
+  "JUGADORES_ANOTARON": "Giroud 7,51"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac8aa"
+  },
+  "GRUPO": "A Y B",
+  "EQUIPO 1": "Arsenal",
+  "VS": "Vs",
+  "EQUIPO 2": "Leverkusen",
+  "FECHA": "14/02/2025",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "ARS 1-0 LEV",
+  "JUGADORES_ANOTARON": "Saka 23(P)"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac8ab"
+  },
+  "GRUPO": "A Y B",
+  "EQUIPO 1": "Bayern Munich",
+  "VS": "Vs",
+  "EQUIPO 2": "Real Madrid",
+  "FECHA": "14/02/2025",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "BAY 2-3 RM",
+  "JUGADORES_ANOTARON": "Kane 26,77  Rodrygo 7,88,91"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac8ac"
+  },
+  "GRUPO": "D Y C",
+  "EQUIPO 1": "Chelsea",
+  "VS": "Vs",
+  "EQUIPO 2": "Manchester United",
+  "FECHA": "15/02/2025",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "CHE 1-0 MUN",
+  "JUGADORES_ANOTARON": "Pamer 11"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac8ad"
+  },
+  "GRUPO": "D Y C",
+  "EQUIPO 1": "PSG",
+  "VS": "Vs",
+  "EQUIPO 2": "Milan ",
+  "FECHA": "15/02/2025",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "PSG 2-0 MIL",
+  "JUGADORES_ANOTARON": "Mbappe 22,90+7(P)"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac8ae"
+  },
+  "GRUPO": "A Y B",
+  "EQUIPO 1": "Arsenal",
+  "VS": "Vs",
+  "EQUIPO 2": "Real Madrid",
+  "FECHA": "14/03/2025",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "ARS 0-1 RM",
+  "JUGADORES_ANOTARON": "Vinicius 2"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac8af"
+  },
+  "GRUPO": "D Y C",
+  "EQUIPO 1": "Chelsea",
+  "VS": "Vs",
+  "EQUIPO 2": "PSG",
+  "FECHA": "15/03/2025",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "CHE 1-2 PSG",
+  "JUGADORES_ANOTARON": "Palmer 17  Mbappe 22,89(P)"
+},
+{
+  "_id": {
+    "$oid": "6640ddd8262fd82a8edac8b0"
+  },
+  "GRUPO": "B Y C",
+  "EQUIPO 1": "Real madrid",
+  "VS": "Vs",
+  "EQUIPO 2": "PSG",
+  "FECHA": "14/04/2025",
+  "HORA": "      8:00 p.m",
+  "RESULTADO": "RM 1-0 PSG ",
+  "JUGADORES_ANOTARON": "Mbappe (AG)  120+1"
+}]

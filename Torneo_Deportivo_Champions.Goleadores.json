@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6640de91262fd82a8edac8b3"
+  },
+  "ID_MaxGoleador": 1,
+  "JUGADOR": "KILYAN MBAPPE",
+  "CANT_GOLES": 16
+},
+{
+  "_id": {
+    "$oid": "6640de91262fd82a8edac8b4"
+  },
+  "ID_MaxGoleador": 2,
+  "JUGADOR": "VINICIUS JR",
+  "CANT_GOLES": 12
+},
+{
+  "_id": {
+    "$oid": "6640de91262fd82a8edac8b5"
+  },
+  "ID_MaxGoleador": 3,
+  "JUGADOR": "HARRY KANE",
+  "CANT_GOLES": 11
+},
+{
+  "_id": {
+    "$oid": "6640de91262fd82a8edac8b6"
+  },
+  "ID_MaxGoleador": 4,
+  "JUGADOR": "COLE PALMER",
+  "CANT_GOLES": 10
+},
+{
+  "_id": {
+    "$oid": "6640de91262fd82a8edac8b7"
+  },
+  "ID_MaxGoleador": 5,
+  "JUGADOR": "BUKAYO SAKA",
+  "CANT_GOLES": 9
+}]
