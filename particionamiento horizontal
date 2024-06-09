@@ -3,20 +3,41 @@ mongod --port 27017 --replSet rs0 --shardsvr
 mongod --port 27018 --replSet rs0 --shardsvr
 mongod --port 27019 --replSet rs0 --shardsvr
 
-# Iniciar la consola de MongoDB
 mongo --port 27017
 
-# Configurar replicaciónconfig = {   "_id": "rs0",
+config = {
+   "_id": "rs0",
    "members": [
       { "_id": 0, "host": "localhost:27017" },
       { "_id": 1, "host": "localhost:27018" },
       { "_id": 2, "host": "localhost:27019" }
-    ]
+   ]
 }
 rs.initiate(config)
 
-db.partidos.createIndex({ "fecha": 1, "hora": 1, "equipo1": 1, "equipo2": 1 })
-sh.shardCollection("test.partidos", { "fecha": 1 })
+mongo --port 27017
+
+config = {
+   "_id": "rs0",
+   "members": [
+      { "_id": 0, "host": "localhost:27017" },
+      { "_id": 1, "host": "localhost:27018" },
+      { "_id": 2, "host": "localhost:27019" }
+   ]
+}
+
+mongo --port 27017
+
+use torneo
+
+# Crear índices para las colecciones relevantes (por ejemplo, colección de partidos)
+db.partidos.createIndex({ "fecha": 1 })
+
+# Fragmentar la colección de partidos por fecha
+sh.shardCollection("torneo.partidos", { "fecha": 1 })
+
+mongo --port 27017
+
 sh.addShard("localhost:27017")
 sh.addShard("localhost:27018")
 sh.addShard("localhost:27019")
