@@ -1,0 +1,68 @@
+import datetime
+
+# Función para ejecutar los casos de prueba
+def ejecutar_casos_de_prueba():
+    resultados = []
+    
+    # Caso de prueba CP6: Verificación de réplicas de datos
+    resultado_cp6 = {
+        "caso_de_prueba": "CP6",
+        "descripcion": "Verificar que las réplicas de datos estén actualizadas en todos los nodos del sistema.",
+        "resultado": "Pendiente"
+    }
+    resultados.append(resultado_cp6)
+    
+    # Caso de prueba CP7: Acceso al sistema durante un mantenimiento
+    resultado_cp7 = {
+        "caso_de_prueba": "CP7",
+        "descripcion": "Comprobar que los usuarios puedan acceder al sistema durante una operación de mantenimiento programada.",
+        "resultado": "Pendiente"
+    }
+    resultados.append(resultado_cp7)
+    
+    # Caso de prueba CP8: Distribución equitativa de la carga
+    resultado_cp8 = {
+        "caso_de_prueba": "CP8",
+        "descripcion": "Verificar que la carga se distribuya de manera equitativa entre los servidores disponibles.",
+        "resultado": "Pendiente"
+    }
+    resultados.append(resultado_cp8)
+    
+    # Caso de prueba CP9: Recepción de alertas de monitoreo
+    resultado_cp9 = {
+        "caso_de_prueba": "CP9",
+        "descripcion": "Comprobar que el equipo de operaciones reciba alertas proactivas ante anomalías en el sistema.",
+        "resultado": "Pendiente"
+    }
+    resultados.append(resultado_cp9)
+    
+    # Caso de prueba CP10: Disponibilidad durante un fallo simulado
+    resultado_cp10 = {
+        "caso_de_prueba": "CP10",
+        "descripcion": "Verificar la disponibilidad del sistema durante un fallo simulado en un nodo del sistema.",
+        "resultado": "Pendiente"
+    }
+    resultados.append(resultado_cp10)
+    
+    return resultados
+
+# Función para generar el informe
+def generar_informe(resultados):
+    fecha_actual = datetime.datetime.now().strftime("%d/%m/%Y")
+    print("--- Informe de Resultados y Análisis de Casos de Prueba ---")
+    print("Fecha:", fecha_actual)
+    print("\n")
+    
+    for resultado in resultados:
+        print(f"Caso de Prueba: {resultado['caso_de_prueba']}")
+        print(f"Descripción: {resultado['descripcion']}")
+        print(f"Resultado: {resultado['resultado']}")
+        print("\n")
+        
+    print("--- Fin del Informe ---")
+
+# Ejecutar casos de prueba
+resultados = ejecutar_casos_de_prueba()
+
+# Generar informe
+generar_informe(resultados)
